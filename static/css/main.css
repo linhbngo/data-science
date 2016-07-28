@@ -63,7 +63,7 @@ p.info a {
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
-    background: #26094b;
+    background: #26094B;
 }
 .menu ul li {
     list-style: none;
@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #26094b;
+    background: #26094B;
 }
 li.current-menu-item:before {
     content: "";
